@@ -17,4 +17,3 @@ class Games{
         self.title = title
     }
 }
-
